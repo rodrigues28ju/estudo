@@ -1,3 +1,25 @@
  0 a 420px smart
  421px a 1023px tablet
  1024 px desktop
+
+http://www.w3schools.com/html/default.asp
+
+http://www.w3schools.com/css/default.asp
+
+http://www.w3schools.com/js/default.asp
+
+http://www.w3schools.com/htmldom/default.asp
+
+e por fim PHP, que depois só com prática:
+
+http://www.w3schools.com/php/default.asp
+
+Agora, saber todas as funções do PHP, saber todas as propriedades de CSS, nem te preocupes. Para isso é que existe o excelente manual de funções do PHP em http://php.net e para CSS, tens a CSS reference no site da W3schools
+.
+JavaScript: tens dois artigos na revista programar (4a e 5a edição); info na wiki: http://wiki.portugal-a-programar.org/Home?idx=javascript ; e comecei no meu blog (pub) uma série de artigos sobre javascript é uma questão de estares atento: http://joaopedropereira.com/blog/
+
+HTML: não compres nada, o w3schools ensina-te tudo o que precisas.
+
+CSS: http://www.alistapart.com/topics/code/css/ ; http://artypapers.com/csshelppile/category.php?11 ; http://dezwozhere.com/links.html ; http://meyerweb.com/eric/css/ ; http://www.htmldog.com/ ; http://www.csseasy.com/ ; http://webdesignfromscratch.com/css.php
+
+PHP: nada melhor que o manual disponivel em http://www.php.net/manual/pt_BR/
